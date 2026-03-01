@@ -7,7 +7,7 @@ name = "pygments-neomutt"
 version = "1.0.0"
 description = "Pygments lexer for NeoMutt configuration files"
 readme = "README.md"
-license = "GPL-2.0-or-later"
+license = "GPL-3.0-or-later"
 requires-python = ">=3.9"
 dependencies = ["pygments>=2.0"]
 
